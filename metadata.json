@@ -1,0 +1,7 @@
+{
+  "name": "Abyssinia",
+  "description": "A modern, offline-capable Amharic-English dictionary featuring bilingual search, pronunciation guides, and phonetic input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
